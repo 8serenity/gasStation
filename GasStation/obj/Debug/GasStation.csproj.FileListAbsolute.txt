@@ -1,0 +1,16 @@
+c:\users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\bin\Debug\GasStation.exe.config
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\bin\Debug\GasStation.exe
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\bin\Debug\GasStation.pdb
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\obj\Debug\GasStation.csprojResolveAssemblyReference.cache
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\obj\Debug\MainWindow.g.cs
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\obj\Debug\App.g.cs
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\obj\Debug\GasStation_MarkupCompile.cache
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\obj\Debug\GasStation_MarkupCompile.lref
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\obj\Debug\MainWindow.baml
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\obj\Debug\GasStation.g.resources
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\obj\Debug\GasStation.Properties.Resources.resources
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\obj\Debug\GasStation.csproj.GenerateResource.Cache
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\obj\Debug\GasStation.exe
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\obj\Debug\GasStation.pdb
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\obj\Debug\Calculate.g.cs
+C:\Users\serenity\documents\visual studio 2015\Projects\GasStation\GasStation\obj\Debug\Calculate.baml

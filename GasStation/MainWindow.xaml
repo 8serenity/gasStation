@@ -1,0 +1,42 @@
+﻿<Window x:Class="GasStation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GasStation"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="325">
+    <StackPanel Orientation="Vertical">
+        <TextBlock TextWrapping="Wrap" Text="Выберите тип бензина" TextAlignment="Center"/>
+        <ComboBox Name="gasType" HorizontalAlignment="Center" Width="250" />
+        <TextBlock TextWrapping="Wrap" Text="Количество литров" TextAlignment="Center"/>
+        <TextBox Name="gasAmount" Width="250" />
+        <TextBlock TextWrapping="Wrap" Text="Выберите доп. товар" TextAlignment="Center"/>
+        <StackPanel Name="productChoosePanel1" Width="250" Orientation="Horizontal">
+
+            <ComboBox Name="productType1" HorizontalAlignment="Center" Width="200"/>
+            <TextBox Name="productAmount1" Width="25" Margin="8 0 0 0"/>
+            <TextBlock Text="шт" Margin="2 0 0 0"/>
+        </StackPanel>
+        
+        <Button Name="addButton1" Content="+" Width="70" Margin="5" Click="buttonClick1"/>
+
+        <StackPanel Visibility="Hidden" Name="productChoosePanel2" Width="250" Orientation="Horizontal">
+            <ComboBox Name="productType2" HorizontalAlignment="Center" Width="200"/>
+            <TextBox Name="productAmount2" Width="25" Margin="8 0 0 0"/>
+            <TextBlock Text="шт" Margin="2 0 0 0"/>
+        </StackPanel>
+
+        <Button Visibility="Hidden" Name="addButton2" Content="+" Width="70" Margin="5" Click="buttonClick2" />
+
+        <StackPanel Visibility="Hidden" Name="productChoosePanel3" Width="250" Orientation="Horizontal">
+            <ComboBox Name="productType3" HorizontalAlignment="Center" Width="200"/>
+            <TextBox Name="productAmount3" Width="25" Margin="8 0 0 0"/>
+            <TextBlock Text="шт" Margin="2 0 0 0"/>
+        </StackPanel>
+
+        <Button Name="calculateButton" Content="Посчитать" Width="100" Margin="10" Click="calculateClick" />
+
+    </StackPanel>
+
+</Window>
